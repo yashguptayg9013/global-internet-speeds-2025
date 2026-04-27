@@ -167,8 +167,6 @@ jupyter notebook Global_Internet_Speeds_2025_EDA.ipynb
 >
 > Tools: Python • Pandas • Matplotlib • Seaborn • Jupyter
 >
-> 🔗 GitHub: [link] | Full report: [link]
->
 > #BusinessAnalysis #DataAnalysis #Python #EDA #PortfolioProject #DataScience
 
 ---
